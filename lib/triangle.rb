@@ -56,4 +56,5 @@ class Triangle
 end
 
 triangle = Triangle.new(0, 0, 0) 
+triangle_2 = Triangle.new(5,5,5) 
 
