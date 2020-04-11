@@ -56,5 +56,5 @@ class Triangle
 end
 
   
-triangle_2 = Triangle.new(5,5,5).kind  
+
 
