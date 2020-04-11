@@ -42,9 +42,9 @@ class Triangle
     elsif equilateral? 
       puts :equilateral 
     elsif isosceles? 
-      :isosceles 
+      puts :isosceles 
     else scalene? 
-      :scalene 
+      puts :scalene 
     end 
   end 
 
