@@ -40,7 +40,7 @@ class Triangle
     if !(self.valid?) 
       raise TriangleError
     elsif equilateral? 
-      :equilateral 
+      puts :equilateral 
     elsif isosceles? 
       :isosceles 
     else scalene? 
